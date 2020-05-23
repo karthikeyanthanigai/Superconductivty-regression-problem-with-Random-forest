@@ -26,15 +26,15 @@ pip install seaborn
 
 2.Clone this repository .
 ```
-https://github.com/karthikeyanthanigai/Superconductivty-regression-problem-with-Decision-tree..git
+https://github.com/karthikeyanthanigai/Superconductivty-regression-problem-with-Random-forest.git
 ```
 3.Open command line and set the directory to the cloned repository.
 ```
-cd Superconductivty-regression-problem-with-Decision-tree.
+cd Superconductivty-regression-problem-with-Random-forest
 ```
 4.Enter the command.
 ```
-python dec.py
+python forest.py
 ```
 
 if you got any error in install the packages then refer [Stackoverflow](https://www.stackoverflow.com).
